@@ -1,0 +1,35 @@
+#include <iostream>
+#include <cstdlib>
+#include <ctime>
+using namespace std;
+
+int game(int maxnum) {
+    srand(time(0));
+    int etsittava_luku = 1 + rand() % maxnum;
+    int arvaus = 0;
+    int arvausten_maara = 0;
+
+    cout << "Arvaa luku valilta 1-" << maxnum << endl;
+
+    while (arvaus != etsittava_luku) {
+        cout << "Anna arvaus: ";
+        cin >> arvaus;
+        arvausten_maara++;
+
+        if (arvaus < etsittava_luku) {
+            cout << "Liian pieni" << endl;
+        } else if (arvaus > etsittava_luku) {
+            cout << "Liian suuri" << endl;
+        } else {
+            cout << "Oikein" << endl;
+        }
+    }
+
+    return arvausten_maara;
+}
+
+int main() {
+    int yrityksia = game(40);
+    cout << "Arvauksia yhteensa: " << yrityksia << endl;
+    return 0;
+}
