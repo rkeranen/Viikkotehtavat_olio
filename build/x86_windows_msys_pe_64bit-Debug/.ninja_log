@@ -1,0 +1,11 @@
+# ninja log v6
+3	985	7907898198936011	CMakeFiles/olio_vkt3.dir/main.cpp.obj	bdf29fe02f50fea3
+19	992	7907898199090898	CMakeFiles/olio_vkt3.dir/italianchef.cpp.obj	d83223af3cae73ec
+101	1690	7908549215668149	CMakeFiles/olio_vkt3.dir/chef.cpp.obj	403d3d56b44cf016
+86	1692	7908549215522977	CMakeFiles/olio_vkt3.dir/main.cpp.obj	bdf29fe02f50fea3
+109	1694	7908549215738183	CMakeFiles/olio_vkt3.dir/italianchef.cpp.obj	d83223af3cae73ec
+1694	2260	7908549231596898	olio_vkt3.exe	bc6e3c33d55d3db1
+29	1177	7908564618559817	CMakeFiles/olio_vkt3.dir/italianchef.cpp.obj	d83223af3cae73ec
+21	1186	7908564618479692	CMakeFiles/olio_vkt3.dir/chef.cpp.obj	403d3d56b44cf016
+11	1194	7908564618379661	CMakeFiles/olio_vkt3.dir/main.cpp.obj	bdf29fe02f50fea3
+1194	1711	7908564630212856	olio_vkt3.exe	bc6e3c33d55d3db1

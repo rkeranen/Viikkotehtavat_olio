@@ -1,0 +1,7 @@
+C:/Users/Käyttäjä/Documents/olio_vkt3/build/x86_windows_msys_pe_64bit-Debug/CMakeFiles/olio_vkt3.dir
+C:/Users/Käyttäjä/Documents/olio_vkt3/build/x86_windows_msys_pe_64bit-Debug/CMakeFiles/edit_cache.dir
+C:/Users/Käyttäjä/Documents/olio_vkt3/build/x86_windows_msys_pe_64bit-Debug/CMakeFiles/rebuild_cache.dir
+C:/Users/Käyttäjä/Documents/olio_vkt3/build/x86_windows_msys_pe_64bit-Debug/CMakeFiles/list_install_components.dir
+C:/Users/Käyttäjä/Documents/olio_vkt3/build/x86_windows_msys_pe_64bit-Debug/CMakeFiles/install.dir
+C:/Users/Käyttäjä/Documents/olio_vkt3/build/x86_windows_msys_pe_64bit-Debug/CMakeFiles/install/local.dir
+C:/Users/Käyttäjä/Documents/olio_vkt3/build/x86_windows_msys_pe_64bit-Debug/CMakeFiles/install/strip.dir
